@@ -1,0 +1,36 @@
+{
+    "title": "140 Pine",
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "settings": {
+        "color": {
+			"palette": [
+				{
+					"color": "oklch(0.99 0.01 140)",
+					"name": "Paper",
+					"slug": "custom-paper"
+				},
+				{
+					"color": "oklch(0.15 0.05 140)",
+					"name": "Main ink",
+					"slug": "custom-main-ink"
+				},
+				{
+					"color": "oklch(0.45 0.18 140)",
+					"name": "Contrasting ink",
+					"slug": "custom-contrasting-ink"
+				},
+				{
+					"color": "oklch(0.6 0.001 140)",
+					"name": "Faded ink",
+					"slug": "custom-faded-ink"
+				}
+			]
+		}
+    },
+	"styles": {
+		"color": {
+			"background": "var(--wp--preset--color--custom-paper)"
+		}
+	}
+}

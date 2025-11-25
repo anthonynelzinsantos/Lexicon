@@ -1,0 +1,180 @@
+/*
+Theme Name: Lexicon
+Theme URI: 
+Author: Anthony Nelzin-Santos
+Author URI: https://anthonynelzinsantos.com/
+Description: Lexicon is a WordPress theme inspired by typewriters. Made for personal blogs, it features multiple colour variations, but doesn’t have a conventional homepage nor comments. 
+Requires at least: 6.8
+Tested up to: 6.8
+Requires PHP: 5.7
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lexicon
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, news
+*/
+
+/* Elements */
+
+body {
+	margin: 0 auto;
+	text-align: justify;
+		-webkit-hyphens: auto;
+		hyphens: auto;
+		-webkit-hyphenate-limit-after: 2;
+		-webkit-hyphenate-limit-before: 3;
+		-webkit-hyphenate-limit-chars: 6 3 2;
+		hyphenate-limit-chars: 6 3 2;
+		-webkit-hyphenate-limit-last: always;
+		hyphenate-limit-last: always;
+		-webkit-hyphenate-limit-lines: 2;
+		hyphenate-limit-lines: 2;
+		-webkit-hyphenate-limit-zone: 8%;
+		hyphenate-limit-zone: 8%;
+		orphans: 2;
+		widows: 2;
+	max-width: 90ch;
+}
+
+a {
+	color: inherit;
+	text-decoration: underline !important;
+		text-decoration-thickness: 1px;
+		text-underline-offset: 2px;
+}
+
+a:active, a:hover {
+	color: var(--wp--preset--color--custom-ink) !important;
+	text-decoration: none !important;
+}
+
+sub, sup {
+	line-height: 1;
+	
+	a {
+		text-underline-offset: -2px;
+	}
+}
+
+bold, strong {
+	color: var(--wp--preset--color--custom-contrasting-ink);
+	font-weight: 400;
+}
+
+sub {
+	font-variant-position: sub;
+}
+
+sup {
+	font-variant-position: super;
+}
+
+/* Block styling */
+
+@media (max-width: 780px) {
+	.align {
+		margin-left: 0 !important;
+		text-align: left;
+	}
+}
+
+.ellipsis {
+	white-space: nowrap;
+	max-width: 66%;
+}
+
+.ellipsis a {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 100%;
+}
+
+/* Homepage */
+
+.wp-block-tag-cloud {
+	text-align: left;
+}
+
+/* Single pages */
+
+.single-content .wp-element-caption {
+	color: var(--wp--preset--color--custom-faded-ink);
+	font-size: var(--wp--preset--font-size--small);
+	margin-block-start: var(--wp--preset--spacing--20);
+	text-align: right;
+}
+
+.single-content h2.wp-block-heading {
+	display: table;
+	background: repeating-linear-gradient(
+		to right,
+		transparent 0,
+		transparent 0.05ch,
+		currentColor 0.05ch,
+		currentColor 0.95ch,
+		transparent 0.95ch,
+		transparent 1ch
+	),
+	repeating-linear-gradient(
+		to right,
+		transparent 0,
+		transparent 0.05ch,
+		currentColor 0.05ch,
+		currentColor 0.95ch,
+		transparent 0.95ch,
+		transparent 1ch
+	);
+	background-position: 0 100%, 0 calc(100% - 4px);
+  	background-size: 100% 2px, 100% 2px;
+	background-repeat: no-repeat;
+	margin-block-start: var(--wp--preset--spacing--70);
+	padding-bottom: 4px;
+}
+
+.single-content h3.wp-block-heading {
+	display: table;
+	background: repeating-linear-gradient(
+		to right,
+		transparent 0,
+		transparent 0.05ch,
+		currentColor 0.05ch,
+		currentColor 0.95ch,
+		transparent 0.95ch,
+		transparent 1ch
+	);
+	background-position: 0 100%;
+  	background-size: 100% 2px;
+	background-repeat: no-repeat;
+	padding-bottom: 2px;
+	text-transform: inherit;
+}
+
+.single-content kbd {
+	background: color-mix(in oklch, var(--wp--preset--color--custom-contrasting-ink) 10%, var(--wp--preset--color--custom-paper));
+	font-family: inherit;
+}
+
+.single-content .wp-block-quote {
+	line-height: 1.6;
+	overflow: hidden;
+	padding-left: 2ch;
+	position: relative;
+}
+
+.single-content .wp-block-quote::before {
+	color: var(--wp--preset--color--custom-contrasting-ink) !important;
+	content: '>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A';
+	position: absolute;
+		left: 0;
+		top: 0;
+	white-space: pre;
+}
+
+.single-content .footnotes {
+	border-top: 2px dashed;
+	float: right;
+	font-size: var(--wp--preset--font-size--small) !important;
+	margin-block-start: var(--wp--preset--spacing--70);
+	padding-block-start: var(--wp--preset--spacing--50);
+	width: 75%;
+}

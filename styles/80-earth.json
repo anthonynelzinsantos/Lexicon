@@ -1,0 +1,36 @@
+{
+    "title": "80 Earth",
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "settings": {
+        "color": {
+			"palette": [
+				{
+					"color": "oklch(0.99 0.01 80)",
+					"name": "Paper",
+					"slug": "custom-paper"
+				},
+				{
+					"color": "oklch(0.15 0.05 80)",
+					"name": "Main ink",
+					"slug": "custom-main-ink"
+				},
+				{
+					"color": "oklch(0.45 0.18 80)",
+					"name": "Contrasting ink",
+					"slug": "custom-contrasting-ink"
+				},
+				{
+					"color": "oklch(0.6 0.001 80)",
+					"name": "Faded ink",
+					"slug": "custom-faded-ink"
+				}
+			]
+		}
+    },
+	"styles": {
+		"color": {
+			"background": "var(--wp--preset--color--custom-paper)"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+    "title": "0 Carbon",
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "settings": {
+        "color": {
+			"palette": [
+				{
+					"color": "oklch(0.15 0.05 255)",
+					"name": "Paper",
+					"slug": "custom-paper"
+				},
+				{
+					"color": "oklch(0.9 0.01 90)",
+					"name": "Main ink",
+					"slug": "custom-main-ink"
+				},
+				{
+					"color": "oklch(0.65 0.15 255)",
+					"name": "Contrasting ink",
+					"slug": "custom-contrasting-ink"
+				},
+				{
+					"color": "oklch(0.85 0.01 255)",
+					"name": "Faded ink",
+					"slug": "custom-faded-ink"
+				}
+			]
+		}
+    },
+	"styles": {
+		"color": {
+			"background": "var(--wp--preset--color--custom-paper)"
+		}
+	}
+}

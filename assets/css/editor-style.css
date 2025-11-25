@@ -1,0 +1,76 @@
+.wp-block-post-content .wp-element-caption {
+	color: var(--wp--preset--color--custom-faded-ink);
+	font-size: var(--wp--preset--font-size--small);
+	margin-block-start: var(--wp--preset--spacing--20);
+	text-align: right;
+}
+
+.wp-block-post-content h2.wp-block-heading {
+	display: table;
+	background: repeating-linear-gradient(
+		to right,
+		transparent 0,
+		transparent 0.05ch,
+		currentColor 0.05ch,
+		currentColor 0.95ch,
+		transparent 0.95ch,
+		transparent 1ch
+	),
+	repeating-linear-gradient(
+		to right,
+		transparent 0,
+		transparent 0.05ch,
+		currentColor 0.05ch,
+		currentColor 0.95ch,
+		transparent 0.95ch,
+		transparent 1ch
+	);
+	background-position: 0 100%, 0 calc(100% - 4px);
+  	background-size: 100% 2px, 100% 2px;
+	background-repeat: no-repeat;
+	margin-block-start: var(--wp--preset--spacing--70);
+	padding-bottom: 4px;
+}
+
+.wp-block-post-content h3.wp-block-heading {
+	display: table;
+	background: repeating-linear-gradient(
+		to right,
+		transparent 0,
+		transparent 0.05ch,
+		currentColor 0.05ch,
+		currentColor 0.95ch,
+		transparent 0.95ch,
+		transparent 1ch
+	);
+	background-position: 0 100%;
+  	background-size: 100% 2px;
+	background-repeat: no-repeat;
+	padding-bottom: 2px;
+	text-transform: inherit;
+}
+
+.wp-block-post-content .wp-block-quote {
+	line-height: 1.6;
+	overflow: hidden;
+	padding-left: 2ch;
+	position: relative;
+}
+
+.wp-block-post-content .wp-block-quote::before {
+	color: var(--wp--preset--color--custom-contrasting-ink) !important;
+	content: '>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A>\A';
+	position: absolute;
+		left: 0;
+		top: 0;
+	white-space: pre;
+}
+
+.wp-block-post-content .footnotes {
+	border-top: 2px dashed;
+	float: right;
+	font-size: var(--wp--preset--font-size--small) !important;
+	margin-block-start: var(--wp--preset--spacing--70);
+	padding-block-start: var(--wp--preset--spacing--50);
+	width: 75%;
+}
