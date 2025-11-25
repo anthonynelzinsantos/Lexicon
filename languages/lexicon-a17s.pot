@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Lexicon\n"
+"Project-Id-Version: Lexicon A17S\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-25 12:19+0000\n"
+"POT-Creation-Date: 2025-11-25 13:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.8.0; wp-6.8.3; php-8.3.26-dev\n"
-"X-Domain: lexicon"
+"X-Domain: lexicon-a17s"
 
 #. Author of the theme
 msgid "Anthony Nelzin-Santos"
@@ -68,6 +68,10 @@ msgstr ""
 msgid "https://anthonynelzinsantos.com/"
 msgstr ""
 
+#. URI of the theme
+msgid "https://anthonynelzinsantos.com/lexicon-a17s"
+msgstr ""
+
 #. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
 #: patterns/404.php:15
 #, php-format
@@ -75,7 +79,7 @@ msgid "Image %1$sBrandon Doran%2$s (%3$sCC BY-NC-ND 2.0%4$s)."
 msgstr ""
 
 #. Name of the theme
-msgid "Lexicon"
+msgid "Lexicon A17S"
 msgstr ""
 
 #. Description of the theme

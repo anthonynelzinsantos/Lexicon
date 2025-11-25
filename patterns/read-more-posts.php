@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Read more posts
- * Slug: lexicon/read-more-posts
+ * Slug: lexicon-a17s/read-more-posts
  * Categories: Publications
  */
 ?>
@@ -9,7 +9,7 @@
 <div class="wp-block-columns" style="border-top-color:var(--wp--preset--color--custom-contrasting-ink);border-top-style:dashed;border-top-width:2px;margin-top:var(--wp--preset--spacing--80);margin-bottom:var(--wp--preset--spacing--80);padding-top:var(--wp--preset--spacing--60)"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"textAlign":"right","className":"align","style":{"elements":{"link":{"color":{"text":"var:preset|color|custom-contrasting-ink"}}}},"textColor":"custom-contrasting-ink"} -->
-<h2 class="wp-block-heading has-text-align-right align has-custom-contrasting-ink-color has-text-color has-link-color"><?php esc_html_e('Read more posts', 'lexicon');?></h2>
+<h2 class="wp-block-heading has-text-align-right align has-custom-contrasting-ink-color has-text-color has-link-color"><?php esc_html_e('Read more posts', 'lexicon-a17s');?></h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->

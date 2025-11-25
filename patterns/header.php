@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: header
- * Slug: lexicon/header
+ * Slug: lexicon-a17s/header
  * Inserter: no
  */
 ?>

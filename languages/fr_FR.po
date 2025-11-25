@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Lexicon\n"
+"Project-Id-Version: lexicon-a17s\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-25 10:59+0000\n"
 "PO-Revision-Date: 2025-11-25 12:20+0000\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.8.0; wp-6.8.3; php-8.3.26-dev\n"
-"X-Domain: lexicon"
+"X-Domain: lexicon-a17s"
 
 #. Author of the theme
 msgid "Anthony Nelzin-Santos"
@@ -74,16 +74,16 @@ msgid "Image %1$sBrandon Doran%2$s (%3$sCC BY-NC-ND 2.0%4$s)."
 msgstr "Image %1$sBrandon Doran%2$s (%3$sCC BY-NC-ND 2.0%4$s)."
 
 #. Name of the theme
-msgid "Lexicon"
-msgstr "Lexicon"
+msgid "lexicon-a17s"
+msgstr "lexicon-a17s"
 
 #. Description of the theme
 msgid ""
-"Lexicon is a WordPress theme inspired by typewriters. Made for personal "
+"lexicon-a17s is a WordPress theme inspired by typewriters. Made for personal "
 "blogs, it features multiple colour variations, but doesn’t have a "
 "conventional homepage nor comments."
 msgstr ""
-"Lexicon est un thème WordPress inspiré par les machines à écrire. Il possède "
+"lexicon-a17s est un thème WordPress inspiré par les machines à écrire. Il possède "
 "plusieurs variations de couleur, mais n’a ni page d’accueil conventionnelle, "
 "ni commentaires."
 
