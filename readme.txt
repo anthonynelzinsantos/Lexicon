@@ -1,4 +1,4 @@
-== Lexicon ==
+== Lexicon A17S ==
 Contributors: Anthony Nelzin-Santos
 Requires at least: 6.8
 Tested up to: 6.8
@@ -14,8 +14,8 @@ Lexicon is a WordPress theme inspired by typewriters. Made for personal blogs, i
 * Initial release
 
 == Copyright ==
-Lexicon WordPress Theme, (C) 2025 Anthony Nelzin-Santos
-Lexicon is distributed under the terms of the GNU GPL.
+Lexicon A17S WordPress Theme, (C) 2025 Anthony Nelzin-Santos
+Lexicon A17S is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-Lexicon bundles the following third-party resources:
+Lexicon A17S bundles the following third-party resources:
 
 === Fonts ===
 Space Mono Font
