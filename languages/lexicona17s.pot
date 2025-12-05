@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lexicon A17S\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-05 08:38+0000\n"
+"POT-Creation-Date: 2025-12-05 10:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.8.0; wp-6.8.3; php-8.3.26-dev\n"
-"X-Domain: lexicon-a17s"
+"X-Domain: lexicona17s"
 
 #. Author of the theme
 msgid "Anthony Nelzin-Santos"
@@ -69,7 +69,7 @@ msgid "https://anthonynelzinsantos.com/"
 msgstr ""
 
 #. URI of the theme
-msgid "https://anthonynelzinsantos.com/lexicon-a17s"
+msgid "https://anthonynelzinsantos.com/lexicon/"
 msgstr ""
 
 #. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
@@ -250,5 +250,5 @@ msgid ""
 msgstr ""
 
 #: patterns/footer.php:11
-msgid "© [year]"
+msgid "©️ [year]"
 msgstr ""

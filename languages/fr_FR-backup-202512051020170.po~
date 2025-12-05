@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: lexicona17s\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-25 10:59+0000\n"
-"PO-Revision-Date: 2025-12-05 10:20+0000\n"
+"PO-Revision-Date: 2025-12-05 08:42+0000\n"
 "Last-Translator: \n"
 "Language-Team: Français\n"
 "Language: fr_FR\n"
@@ -68,9 +68,8 @@ msgid "https://anthonynelzinsantos.com/"
 msgstr "https://anthonynelzinsantos.com/"
 
 #. URI of the theme
-#| msgid "https://anthonynelzinsantos.com/lexicona17s"
-msgid "https://anthonynelzinsantos.com/lexicon/"
-msgstr "https://anthonynelzinsantos.com/lexicon/"
+msgid "https://anthonynelzinsantos.com/lexicona17s"
+msgstr "https://anthonynelzinsantos.com/lexicona17s"
 
 #. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
 #: patterns/404.php:15
@@ -268,5 +267,5 @@ msgstr ""
 "les liens vers vos réseaux sociaux, ou ajouter tout autre appel à l’action."
 
 #: patterns/footer.php:11
-msgid "©️ [year]"
-msgstr "©️ [année]"
+msgid "© [year]"
+msgstr ""

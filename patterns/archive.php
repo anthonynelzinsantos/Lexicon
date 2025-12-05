@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: archive
- * Slug: lexicon-a17s/archive
+ * Slug: lexicona17s/archive
  * Inserter: no
  */
 ?>
@@ -38,7 +38,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"placeholder":"No results."} -->
-<p><?php esc_html_e('No results.', 'lexicon-a17s');?></p>
+<p><?php esc_html_e('No results.', 'lexicona17s');?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query --></div>
