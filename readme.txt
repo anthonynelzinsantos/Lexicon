@@ -38,6 +38,6 @@ Source: https://fonts.google.com/specimen/Space+Mono
 
 === Images ===
 peugeot-404-scaled-1.jpg
-Copyright (c) 2012, Brandon Doran
-License: CC BY-NC-ND 2.0, https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en
-Source: https://www.flickr.com/photos/brandondoran/7168851250/in/photolist-2qEgPSY-2maZirc-2eGVip9-2p5QaSn-2oeD1BE-2oeAKXp-ok9KqD-njLJHF-nBgsEv-Y2YGUT-52kZD2-2N77-27jrkzf-5ntV33-SBXJdU-3cFcu2-bVueHC-2N74-2qcAe9e-cNeERJ-deVc9G-cNeEiC-pKsuxF-fzUfyi-bFWRF2-RwXYSQ-Rzwu9Z-SeDz3b-SPsB7z-SPsAfK-52kZyT-e6scSe-RzwtBX-SzJ5Bq-SPsAbr-eK8wMV-RzwtRV-RwXYHw-SPsBiX-RwXYB9-yznvEy-cR4gCu-HHnxX9-SPsAWp-PNCUBo-4KwAFS-e6scUx-2qaETK2-e6scYP-7MniRy
+Copyright (c) 2011, Alf van Beem
+License: CC0 1.0 Public Dedication, https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://commons.wikimedia.org/wiki/File:Peugeot_404_(1974)_,_Dutch_licence_registration_03-YA-61_pic3.JPG

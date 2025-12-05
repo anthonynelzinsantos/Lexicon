@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: lexicon-a17s\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-25 10:59+0000\n"
-"PO-Revision-Date: 2025-11-25 12:20+0000\n"
+"PO-Revision-Date: 2025-12-05 08:38+0000\n"
 "Last-Translator: \n"
 "Language-Team: Français\n"
 "Language: fr_FR\n"
@@ -67,24 +67,33 @@ msgstr "Erreur 404"
 msgid "https://anthonynelzinsantos.com/"
 msgstr "https://anthonynelzinsantos.com/"
 
+#. URI of the theme
+msgid "https://anthonynelzinsantos.com/lexicon-a17s"
+msgstr "https://anthonynelzinsantos.com/lexicon-a17s"
+
 #. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
 #: patterns/404.php:15
 #, php-format
-msgid "Image %1$sBrandon Doran%2$s (%3$sCC BY-NC-ND 2.0%4$s)."
-msgstr "Image %1$sBrandon Doran%2$s (%3$sCC BY-NC-ND 2.0%4$s)."
+msgid "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
+msgstr "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
 
 #. Name of the theme
-msgid "lexicon-a17s"
-msgstr "lexicon-a17s"
+#| msgid "lexicon-a17s"
+msgid "Lexicon A17S"
+msgstr "Lexicon A17S"
 
 #. Description of the theme
+#| msgid ""
+#| "lexicon-a17s is a WordPress theme inspired by typewriters. Made for "
+#| "personal blogs, it features multiple colour variations, but doesn’t have "
+#| "a conventional homepage nor comments."
 msgid ""
-"lexicon-a17s is a WordPress theme inspired by typewriters. Made for personal "
+"Lexicon is a WordPress theme inspired by typewriters. Made for personal "
 "blogs, it features multiple colour variations, but doesn’t have a "
 "conventional homepage nor comments."
 msgstr ""
-"lexicon-a17s est un thème WordPress inspiré par les machines à écrire. Il possède "
-"plusieurs variations de couleur, mais n’a ni page d’accueil conventionnelle, "
+"Lexicon est un thème WordPress inspiré par les machines à écrire. Il possède "
+"plusieurs variations de couleur, mais n’a ni page d’accueil conventionnelle "
 "ni commentaires."
 
 #: patterns/call-to-action.php:12 patterns/index.php:16 patterns/single.php:16

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lexicon A17S\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-25 13:00+0000\n"
+"POT-Creation-Date: 2025-12-05 08:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -75,7 +75,7 @@ msgstr ""
 #. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
 #: patterns/404.php:15
 #, php-format
-msgid "Image %1$sBrandon Doran%2$s (%3$sCC BY-NC-ND 2.0%4$s)."
+msgid "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
 msgstr ""
 
 #. Name of the theme
