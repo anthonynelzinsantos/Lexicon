@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lexicon A17S\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-05 10:19+0000\n"
+"POT-Creation-Date: 2025-12-06 10:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -56,7 +56,7 @@ msgctxt "Color name"
 msgid "Paper"
 msgstr ""
 
-#: functions.php:21
+#: functions.php:28
 msgid "Copyright year"
 msgstr ""
 
@@ -76,6 +76,10 @@ msgstr ""
 #: patterns/404.php:15
 #, php-format
 msgid "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
+msgstr ""
+
+#: functions.php:63
+msgid "Lexicon"
 msgstr ""
 
 #. Name of the theme

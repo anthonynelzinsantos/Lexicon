@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: lexicona17s\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-25 10:59+0000\n"
-"PO-Revision-Date: 2025-12-05 10:20+0000\n"
+"PO-Revision-Date: 2025-12-06 10:42+0000\n"
 "Last-Translator: \n"
 "Language-Team: Français\n"
 "Language: fr_FR\n"
@@ -55,7 +55,7 @@ msgctxt "Color name"
 msgid "Paper"
 msgstr "Papier"
 
-#: functions.php:21
+#: functions.php:28
 msgid "Copyright year"
 msgstr "Année de copyright"
 
@@ -77,6 +77,10 @@ msgstr "https://anthonynelzinsantos.com/lexicon/"
 #, php-format
 msgid "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
 msgstr "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
+
+#: functions.php:63
+msgid "Lexicon"
+msgstr "Lexicon"
 
 #. Name of the theme
 #| msgid "lexicona17s"
