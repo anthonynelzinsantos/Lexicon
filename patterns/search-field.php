@@ -2,7 +2,7 @@
 /**
  * Title: Search field
  * Slug: lexicona17s/search-field
- * Categories: Publications
+ * Categories: lexicona17s
  */
 ?>
 <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|80"}},"border":{"top":{"color":"var:preset|color|custom-contrasting-ink","style":"dashed","width":"2px"},"right":[],"bottom":[],"left":[]}}} -->

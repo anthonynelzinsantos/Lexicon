@@ -2,7 +2,7 @@
 /**
  * Title: Read more posts
  * Slug: lexicona17s/read-more-posts
- * Categories: Publications
+ * Categories: lexicona17s
  */
 ?>
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|60"},"padding":{"top":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}},"border":{"top":{"color":"var:preset|color|custom-contrasting-ink","style":"dashed","width":"2px"},"right":[],"bottom":[],"left":[]}}} -->

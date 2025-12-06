@@ -2,7 +2,7 @@
 /**
  * Title: Categories
  * Slug: lexicona17s/categories
- * Categories: Publications
+ * Categories: lexicona17s
  */
 ?>
 <!-- wp:columns {"style":{"border":{"top":{"color":"var:preset|color|custom-contrasting-ink","style":"dashed","width":"2px"},"right":[],"bottom":[],"left":[]},"spacing":{"padding":{"top":"var:preset|spacing|60","left":"0","right":"0"},"margin":{"top":"var:preset|spacing|80"}}}} -->
