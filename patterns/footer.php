@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: footer
- * Slug: lexicon-a17s/parts-footer
+ * Slug: lexicon-a17s/footer
  * Inserter: no
  */
 ?>

@@ -37,7 +37,7 @@ Reference: https://github.com/googlefonts/spacemono
 Source: https://fonts.google.com/specimen/Space+Mono
 
 === Images ===
-peugeot-404-scaled-1.jpg
+peugeot-404.jpg
 Copyright (c) 2011, Alf van Beem
 License: CC0 1.0 Public Dedication, https://creativecommons.org/publicdomain/zero/1.0/
 Source: https://commons.wikimedia.org/wiki/File:Peugeot_404_(1974)_,_Dutch_licence_registration_03-YA-61_pic3.JPG
