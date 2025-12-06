@@ -1,0 +1,18 @@
+<?php
+/**
+ * Title: footer
+ * Slug: lexicon-a17s/parts-footer
+ * Inserter: no
+ */
+?>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"},"margin":{"top":"var:preset|spacing|80"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull" style="margin-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|50","padding":{"top":"var:preset|spacing|60","bottom":"0","left":"0","right":"0"},"margin":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}},"border":{"top":{"color":"var:preset|color|custom-contrasting-ink","style":"dashed","width":"2px"},"right":[],"bottom":[],"left":[]}},"fontSize":"small","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"nowrap"}} -->
+<div class="wp-block-group alignfull has-small-font-size" style="border-top-color:var(--wp--preset--color--custom-contrasting-ink);border-top-style:dashed;border-top-width:2px;margin-top:var(--wp--preset--spacing--80);margin-bottom:var(--wp--preset--spacing--80);padding-top:var(--wp--preset--spacing--60);padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"lexicon-a17s/copyright-year"}}}} -->
+<p><?php esc_html_e('©️ [year]', 'lexicon-a17s');?></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"custom-contrasting-ink","iconColorValue":"oklch(0.45 0.18 7)","size":"has-small-icon-size","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|40"}},"layout":{"selfStretch":"fixed","flexSize":"25%"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"/feed","service":"feed"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
