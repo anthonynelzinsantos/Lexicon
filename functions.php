@@ -2,7 +2,7 @@
 
 /* Theme setup */
 function lexicona17s_setup() {
-	add_editor_style( array( trailingslashit( get_template_directory_uri() ) . 'assets/css/editor-style.css', 'style.css' ) );
+	add_editor_style( array( 'assets/css/editor-style.css', 'style.css' ) );
 }
 add_action( 'after_setup_theme', 'lexicona17s_setup' );
 
