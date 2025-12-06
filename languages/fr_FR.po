@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: lexicona17s\n"
+"Project-Id-Version: lexicon-a17s\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-25 10:59+0000\n"
-"PO-Revision-Date: 2025-12-06 10:42+0000\n"
+"PO-Revision-Date: 2025-12-06 11:32+0000\n"
 "Last-Translator: \n"
 "Language-Team: Français\n"
 "Language: fr_FR\n"
@@ -13,44 +13,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.8.0; wp-6.9; php-8.3.26-dev\n"
-"X-Domain: lexicona17s"
+"X-Domain: lexicon-a17s"
 
 #. Author of the theme
 msgid "Anthony Nelzin-Santos"
 msgstr "Anthony Nelzin-Santos"
 
-#: patterns/categories.php:11 patterns/index.php:33 patterns/single.php:33
+#: patterns/categories.php:11
 msgid "Categories"
 msgstr "Catégories"
 
-#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1
-#: styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1
-#: styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1
-#: styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
+#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1 styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1 styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1 styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
 msgctxt "Color name"
 msgid "Contrasting ink"
 msgstr "Encre contrastante"
 
-#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1
-#: styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1
-#: styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1
-#: styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
+#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1 styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1 styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1 styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
 msgctxt "Color name"
 msgid "Faded ink"
 msgstr "Encre passée"
 
-#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1
-#: styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1
-#: styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1
-#: styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
+#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1 styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1 styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1 styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
 msgctxt "Color name"
 msgid "Main ink"
 msgstr "Encre principale"
 
-#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1
-#: styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1
-#: styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1
-#: styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
+#: styles/0-carbon.json:1 styles/110-olive.json:1 styles/140-pine.json:1 styles/170-mint.json:1 styles/20-chili.json:1 styles/200-aqua.json:1 styles/230-cyan.json:1 styles/260-indigo.json:1 styles/320-mauve.json:1 styles/350-grape.json:1 styles/50-brick.json:1 styles/80-earth.json:1
 msgctxt "Color name"
 msgid "Paper"
 msgstr "Papier"
@@ -59,65 +47,32 @@ msgstr "Papier"
 msgid "Copyright year"
 msgstr "Année de copyright"
 
-#: patterns/404.php:28
-msgid "Error 404"
-msgstr "Erreur 404"
-
 #. Author URI of the theme
 msgid "https://anthonynelzinsantos.com/"
 msgstr "https://anthonynelzinsantos.com/"
 
 #. URI of the theme
-#| msgid "https://anthonynelzinsantos.com/lexicona17s"
+#| msgid "https://anthonynelzinsantos.com/lexicon-a17s"
 msgid "https://anthonynelzinsantos.com/lexicon/"
 msgstr "https://anthonynelzinsantos.com/lexicon/"
-
-#. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
-#: patterns/404.php:15
-#, php-format
-msgid "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
-msgstr "Image %1$sAlf van Beem%2$s (%3$sCC0 1.0 Public Dedication%4$s)."
 
 #: functions.php:63
 msgid "Lexicon"
 msgstr "Lexicon"
 
 #. Name of the theme
-#| msgid "lexicona17s"
+#| msgid "lexicon-a17s"
 msgid "Lexicon A17S"
 msgstr "Lexicon A17S"
 
 #. Description of the theme
-#| msgid ""
-#| "lexicona17s is a WordPress theme inspired by typewriters. Made for "
-#| "personal blogs, it features multiple colour variations, but doesn’t have "
-#| "a conventional homepage nor comments."
-msgid ""
-"Lexicon is a WordPress theme inspired by typewriters. Made for personal "
-"blogs, it features multiple colour variations, but doesn’t have a "
-"conventional homepage nor comments."
-msgstr ""
-"Lexicon est un thème WordPress inspiré par les machines à écrire. Il possède "
-"plusieurs variations de couleur, mais n’a ni page d’accueil conventionnelle "
-"ni commentaires."
+#| msgid "lexicon-a17s is a WordPress theme inspired by typewriters. Made for personal blogs, it features multiple colour variations, but doesn’t have a conventional homepage nor comments."
+msgid "Lexicon is a WordPress theme inspired by typewriters. Made for personal blogs, it features multiple colour variations, but doesn’t have a conventional homepage nor comments."
+msgstr "Lexicon est un thème WordPress inspiré par les machines à écrire. Il possède plusieurs variations de couleur, mais n’a ni page d’accueil conventionnelle ni commentaires."
 
-#: patterns/call-to-action.php:12 patterns/index.php:16 patterns/single.php:16
+#: patterns/call-to-action.php:12
 msgid "Liked this post?"
 msgstr "Vous avez aimé cet article ?"
-
-#: patterns/archive.php:41 patterns/search.php:42
-msgid "No results."
-msgstr "Pas de résultats."
-
-#: patterns/404.php:2
-msgctxt "Pattern title"
-msgid "404"
-msgstr "404"
-
-#: patterns/archive.php:2
-msgctxt "Pattern title"
-msgid "archive"
-msgstr "archive"
 
 #: patterns/call-to-action.php:2
 msgctxt "Pattern title"
@@ -129,40 +84,15 @@ msgctxt "Pattern title"
 msgid "Categories"
 msgstr "Catégories"
 
-#: patterns/footer.php:2
-msgctxt "Pattern title"
-msgid "footer"
-msgstr "enpied"
-
-#: patterns/header.php:2
-msgctxt "Pattern title"
-msgid "header"
-msgstr "entête"
-
-#: patterns/index.php:2
-msgctxt "Pattern title"
-msgid "index"
-msgstr "index"
-
 #: patterns/read-more-posts.php:2
 msgctxt "Pattern title"
 msgid "Read more posts"
 msgstr "Lisez plus d’articles"
 
-#: patterns/search.php:2
-msgctxt "Pattern title"
-msgid "search"
-msgstr "recherche"
-
 #: patterns/search-field.php:2
 msgctxt "Pattern title"
 msgid "Search field"
 msgstr "Champ de recherche"
-
-#: patterns/single.php:2
-msgctxt "Pattern title"
-msgid "single"
-msgstr "page seule"
 
 #: patterns/tags.php:2
 msgctxt "Pattern title"
@@ -173,7 +103,7 @@ msgstr "Mots-clés"
 msgid "Read more posts"
 msgstr "Lisez plus d’articles"
 
-#: patterns/index.php:57 patterns/search-field.php:11 patterns/single.php:57
+#: patterns/search-field.php:11
 msgid "Search posts"
 msgstr "Cherchez des articles"
 
@@ -237,40 +167,10 @@ msgctxt "Style variation name"
 msgid "80 Earth"
 msgstr "80 Terre"
 
-#: patterns/index.php:45 patterns/single.php:45 patterns/tags.php:11
+#: patterns/tags.php:11
 msgid "Tags"
 msgstr "Mots-clés"
 
-#. 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element, 3. is the start of a 'a' HTML element, 4. is the end of a 'a' HTML element
-#: patterns/404.php:38
-#, php-format
-#| msgid ""
-#| "This is most unfortunate. This page might have been removed… or never "
-#| "existed in the first place. You can try to %1$ssearch it%2$s or %3$sgo "
-#| "back to the homepage%4$s. "
-msgid ""
-"This is most unfortunate. This page might have been removed… or never "
-"existed in the first place. You can try to %1$ssearch it%2$s or %3$sgo back "
-"to the homepage%4$s. "
-msgstr ""
-"Oups ! Cette page a probablement été supprimée… ou n’a peut-être jamais "
-"existé. Vous pouvez essayer de %1$sla chercher%2$s ou %3$srevenir à la page "
-"d’accueil%4$s."
-
-#: patterns/404.php:24
-msgid "This page couldn’t be found"
-msgstr "Cette page n’a pas été trouvée"
-
-#: patterns/call-to-action.php:20 patterns/index.php:24 patterns/single.php:24
-msgid ""
-"You can edit this pattern from the WordPress editor. It can be used to add a "
-"way to contact you, links to your social networks, or any other call to "
-"action."
-msgstr ""
-"Vous pouvez modifier cette composition dans l’éditeur de WordPress. Vous "
-"pouvez vous en servir pour proposer une manière de vous contacter, afficher "
-"les liens vers vos réseaux sociaux, ou ajouter tout autre appel à l’action."
-
-#: patterns/footer.php:11
-msgid "©️ [year]"
-msgstr "©️ [année]"
+#: patterns/call-to-action.php:20
+msgid "You can edit this pattern from the WordPress editor. It can be used to add a way to contact you, links to your social networks, or any other call to action."
+msgstr "Vous pouvez modifier cette composition dans l’éditeur de WordPress. Vous pouvez vous en servir pour proposer une manière de vous contacter, afficher les liens vers vos réseaux sociaux, ou ajouter tout autre appel à l’action."
