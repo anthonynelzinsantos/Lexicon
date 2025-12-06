@@ -1,7 +1,7 @@
 == Lexicon A17S ==
 Contributors: Anthony Nelzin-Santos
 Requires at least: 6.8
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Lexicon is a WordPress theme inspired by typewriters. Made for personal blogs, it features multiple colour variations, but doesn’t have a conventional homepage nor comments.
 
 == Changelog ==
-= 1.0.0 =
+= 1.0.1 =
 * Initial release
 
 == Copyright ==
